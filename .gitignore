@@ -3,6 +3,10 @@
 # dataset
 dataset
 
+# trained models
+trained-models
+model.hdf5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
